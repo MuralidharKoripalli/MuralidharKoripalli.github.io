@@ -2444,24 +2444,11 @@ input, select, textarea {
 
 	}
 
-	/* typed_text  */
+	/* projects points*/
+	.bulletins{
 
-	/*
-	.typing-animation {
-		font-family: 'Arial', sans-serif;
-		font-size: 15px;
-		border-right: 2px solid cornflowerblue; /* Add a border on the right side to simulate cursor*/
-		white-space: nowrap; /* Prevent text from wrapping */
-		overflow: hidden; /* Hide overflowing text */
-		animation: typing-animation 3s steps(40) infinite; /* Define the typing animation */
+		text-align: left;
+		font-size: 14px;
+		margin-bottom:0%;
+		
 	}
-	  
-	@keyframes typing-animation {
-		from { width: 0; } /* Start with no width */
-		to { width: 32%; } /* End with full width */
-	}
-
-	.typing-animation {
-		animation-play-state: paused; /* Pause the animation */
-	}
-	*/
