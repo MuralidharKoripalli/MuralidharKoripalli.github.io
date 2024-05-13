@@ -220,6 +220,13 @@ input, select, textarea {
 		footer > p {
 			font-size: 1.25em;
 		}
+/* projects points*/
+	.bulletins{
+
+		text-align: left;
+		font-size: 14px;
+		margin-bottom:0%;
+	}
 
 /* Container */
 
@@ -2442,13 +2449,4 @@ input, select, textarea {
 						margin-top: 0;
 					}
 
-	}
-
-	/* projects points*/
-	.bulletins{
-
-		text-align: left;
-		font-size: 14px;
-		margin-bottom:0%;
-		
 	}
